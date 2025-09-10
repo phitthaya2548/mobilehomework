@@ -1,4 +1,4 @@
 
 {
-    "apiEndpoint" : "http://10.34.10.13:3000"
+    "apiEndpoint" : "http://192.168.234.1:3000"
 }
