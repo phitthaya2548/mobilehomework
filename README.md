@@ -10,6 +10,13 @@ A few resources to get you started if this is your first Flutter project:
 # Mobile Homework
 
 ![Demo Screenshot](picture)
+![Detail Trip](picture/detailtrip.png)
+![Fillter Trips](picture/fillltertrips.png)
+![Login](picture/login.png)
+![Profile](picture/profile.png)
+![Profile 2](picture/profile2.png)
+![Register](picture/register.png)
+![Trips](picture/trips.png)
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
